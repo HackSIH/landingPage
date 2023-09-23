@@ -1,0 +1,39 @@
+.notify {
+  background-color:#0c0433;
+  padding: 50px 0;
+  color: #fff;
+  /* position:fixed; */
+  /* bottom:0; */
+  width:100%;
+}
+.notify .right,
+.notify .left {
+  padding-right: 50px;
+}
+.notify h1 {
+  color: #fff;
+  font-size: 30px;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+.notify .right {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.notify input {
+  width: 100%;
+  padding: 20px;
+  border: none;
+  outline: none;
+  height: 30px;
+}
+.notify i {
+  padding: 10px;
+  color: #100641;
+  background-color: #fff;
+}
+
+.sub{
+  color:#fff;
+}
